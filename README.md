@@ -1,4 +1,26 @@
-### Hi there 👋
+### Hi there 👋, I'm Brett
+
+#### Full Stack Web Developer
+
+##### :rocket Technical Skills
+Front End
+- React
+- Redux
+- TypeScript
+- JavaScript
+- Context API
+- Jest
+- HTML
+- CSS TailwindCSS
+
+Back End
+- Node.js
+- Express
+- SQL
+- PostgreSQL
+- Python
+- Supabase
+- Firebase
 
 <!--
 **brettsmith212/brettsmith212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
