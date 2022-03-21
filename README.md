@@ -3,8 +3,8 @@
 ## Full Stack Web Developer
 
 ### :rocket: Technical Skills
-Front End: React, Redux, TypeScript, JavaScript, Context API, Jest, HTML, CSS, Tailwind CSS
-Backend: Node.js, Express, SQL, PostgreSQL, Python, Supabase, Firebase
+- Front End: React, Redux, TypeScript, JavaScript, Context API, Jest, HTML, CSS, Tailwind CSS
+- Backend: Node.js, Express, SQL, PostgreSQL, Python, Supabase, Firebase
 
 
 <!--
