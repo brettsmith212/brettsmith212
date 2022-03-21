@@ -2,25 +2,10 @@
 
 #### Full Stack Web Developer
 
-##### :rocket Technical Skills
-Front End
-- React
-- Redux
-- TypeScript
-- JavaScript
-- Context API
-- Jest
-- HTML
-- CSS TailwindCSS
+#### :rocket: Technical Skills
+Front End: React, Redux, TypeScript, JavaScript, Context API, Jest, HTML, CSS, Tailwind CSS
+Backend: Node.js, Express, SQL, PostgreSQL, Python, Supabase, Firebase
 
-Back End
-- Node.js
-- Express
-- SQL
-- PostgreSQL
-- Python
-- Supabase
-- Firebase
 
 <!--
 **brettsmith212/brettsmith212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
