@@ -2,6 +2,8 @@
 
 ## Full Stack Web Developer
 
+> I love to build. When I was 9 years old I helped design a Mars Colony with other classmates at a multi-school convention. While I never ended up going to Mars, I did discover a love for wanting to design the future. The future I now design is in a digital world. I develop, build and maintain web applications that provide value to users. 
+
 ### 🚀 Technical Skills
 - **Front End:** React, Redux, TypeScript, JavaScript, Context API, Jest, HTML, CSS, Tailwind CSS
 - **Backend:** Node.js, Express, SQL, PostgreSQL, Python, Supabase, Firebase
