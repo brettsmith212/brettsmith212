@@ -12,6 +12,6 @@
 - [Web3 Reads](https://web3reads.netlify.app/)
 
 ### 👋 Connect With Me
-- [Linked In](https://www.linkedin.com/in/brettsmith212/)
+- [LinkedIn](https://www.linkedin.com/in/brettsmith212/)
 - [Twitter](https://twitter.com/brettsmth)
 - [My Portfolio](https://webguide.space/brettsmith-portfolio)
