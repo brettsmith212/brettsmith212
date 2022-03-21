@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Brett
+# Hi there 👋, I'm Brett
 
-#### Full Stack Web Developer
+## Full Stack Web Developer
 
-#### :rocket: Technical Skills
+### :rocket: Technical Skills
 Front End: React, Redux, TypeScript, JavaScript, Context API, Jest, HTML, CSS, Tailwind CSS
 Backend: Node.js, Express, SQL, PostgreSQL, Python, Supabase, Firebase
 
