@@ -14,4 +14,4 @@
 [WebGuide](https://webguide.space/) | [Delivery Dashboard](https://delivery-dashboard.brettsmith212.repl.co/) | [Web3 Reads](https://web3reads.netlify.app/)
 
 ### 👋 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/brettsmith212/) | [Twitter](https://twitter.com/brettsmth) | [My Portfolio](https://webguide.space/brettsmith-portfolio)
+[LinkedIn](https://www.linkedin.com/in/brettsmith212/) | [Twitter](https://twitter.com/brettsmth) | [My Portfolio](https://webguide.space/brettsmith-portfolio) | brettsmith212@gmail.com
