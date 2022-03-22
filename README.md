@@ -1,6 +1,4 @@
-# Hi, I'm Brett
-
-### Full Stack Web Developer
+![header](https://user-images.githubusercontent.com/67445684/159387621-60b5f4ec-4100-43ec-892e-c4b0a7025b91.png)
 
 ### I love to build. When I was 9 years old I helped design a Mars Colony with other classmates at a multi-school convention. While I never ended up going to Mars, I did discover a love for wanting to design the future. The future I now design is in a digital world. I develop, build and maintain web applications that provide value to users. 
 
