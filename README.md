@@ -6,6 +6,8 @@
 
 #### One of the keys to my success as a builder is my love of learning. I seek learning how I can improve the software development skillset I already have and how the new technologies available can make my code more efficient. I am very proud of the work I have done to master the technical skills necessary for building in the digital age. 
 
+#### My favorite personal project that showcases my technical skillset is definitely Webguide. I started building Webguide after I found myself constantly forgetting what resources I had discovered or used on personal projects. Built with TypeScript, React, Context API, Tailwind CSS and Supabase, Webguide has drawn 6,000+ page views and 200+ returning visitors. I continue to improve the site based on user feedback and add resources I love to use each day. I couldn't have imagined more than just me using it, so I am grateful for its (small) success.
+
 ### 🚀 Technical Skills
 - **Front End:** React, Redux, TypeScript, JavaScript, Context API, Jest, HTML, CSS, Tailwind CSS
 - **Backend:** Node.js, Express, SQL, PostgreSQL, Python, Supabase, Firebase
