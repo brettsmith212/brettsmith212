@@ -1,6 +1,4 @@
-![header](https://user-images.githubusercontent.com/67445684/159387621-60b5f4ec-4100-43ec-892e-c4b0a7025b91.png)
-
-### 🙋‍♂️ About Me
+### About Me
 
 #### If it is your first time here, I recommend you checkout my project WebGuide.Space. I started building Webguide after I found myself constantly forgetting what resources I had discovered or used on personal projects. Built with TypeScript, React, Context API, Tailwind CSS and Supabase, Webguide has drawn 6,000+ page views and 200+ returning visitors. I continue to improve the site based on user feedback and add resources I love to use each day. I couldn't have imagined more than just me using it, so I am grateful for its (small) success.
 
